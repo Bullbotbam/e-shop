@@ -19,7 +19,7 @@ An e-commerce app
 
 To run this application you will need to use the [MySQL2](https://www.npmjs.com/package/mysql2) and [Sequelize](https://www.npmjs.com/package/sequelize) packages to connect your Express.js API to a MySQL database and the [dotenv package](https://www.npmjs.com/package/dotenv) to use environment variables to store sensitive data, like your MySQL username, password, and database name.
 
-Step 1 - after loading the dependencies (packages) is to run the server.
+Step 1 - after loading the dependencies (packages) run the server.
 
 ```
 npm start
