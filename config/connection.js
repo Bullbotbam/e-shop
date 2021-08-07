@@ -8,12 +8,5 @@ const sequelize = process.env.JAWSDB_URL
 			dialect: 'mysql',
 			port: 3306,
 	  });
-// const sequelize = process.env.JAWSDB_URL
-// 	? new Sequelize(process.env.JAWSDB_URL)
-// 	: new Sequelize('ecommerce_db', 'root', 'Fr334m3!', {
-// 			host: 'localhost',
-// 			dialect: 'mysql',
-// 			port: 3306,
-// 	  });
 
 module.exports = sequelize;
