@@ -66,14 +66,14 @@ This application is not covered by any license.
 
 ## Testing
 
-[![](https://i9.ytimg.com/vi/IJv6VTQIGtA/mq1.jpg?sqp=CID7uIgG&rs=AOn4CLD5ZgkhwyvAidSL6QloKPt3dlySaQ)](https://youtu.be/IJv6VTQIGtA)
+[VS Code Walkthrough](https://youtu.be/IJv6VTQIGtA)
 
 This is the walk through of the app in VS Code
 <br />
 <br />
 <br />
 
-[![](https://i9.ytimg.com/vi/IJv6VTQIGtA/mq2.jpg?sqp=CID7uIgG&rs=AOn4CLDEsRY4Mwo_7awc_p-aD0CtjG6aIg)](https://youtu.be/2gjWMWcDCLg)
+[Insomnia Walkthrough](https://youtu.be/2gjWMWcDCLg)
 
 This is the walk through of the app on Insomnia
 
